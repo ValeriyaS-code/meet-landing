@@ -1,0 +1,59 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+nav {
+    text-align: center;
+}
+
+.logo_img {
+    margin-top: 25px;
+}
+
+.group_chat {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.hero_text h1 {
+    font-size: 54px;
+    font-weight: 700;
+    color: #28283D;
+    margin-bottom: 0;
+    padding: 0 55px;
+}
+
+.hero_text p {
+    color: #87879D;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.button_one {
+    color: #FAFAFA;
+    width: 193px;
+    height: 48px;
+    background-color: #4D96A9;
+    border-radius: 35px;
+    border: 1px solid #4D96A9;
+    margin-right: 5px;
+}
+
+.hero_text span {
+    color: #8FE3F9;
+}
+
+.button_two {
+    width: 139px;
+    height: 48px;
+    background-color: #855FB1;
+    border-radius: 35px;
+    border: 1px solid #855FB1;
+    color: #FAFAFA;
+    margin-left: 5px;
+}
