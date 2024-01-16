@@ -57,3 +57,15 @@ nav {
     color: #FAFAFA;
     margin-left: 5px;
 }
+
+.images {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 150px;
+}
+
+.images img {
+    width: 255px;
+    height: 242px;
+}
