@@ -32,6 +32,7 @@ nav {
     color: #87879D;
     font-size: 18px;
     font-weight: 300;
+    margin-bottom: 50px;
 }
 
 .button_one {
@@ -95,6 +96,44 @@ nav {
 
 .modern_use_section p {
     color: #87879D;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 300;
+}
+
+footer {
+    background: linear-gradient(to top, #4d97a9c7, #4d97a9c7),url("./images/desktop/image-footer.jpg");
+    height: 308px;
+    margin-top: 100px;
+}
+.footer_content {
+    display: flex;
+    text-align: start;
+    width: 1110px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    gap: 100px;
+    color: #FAFAFA;
+    height: 100%;
+}
+
+.footer_content h3 {
+    font-size: 40px;
+}
+
+.footer_content p {
+    font-size: 18px;
+}
+
+.footer_content button {
+    width: 193px;
+    height: 58px;
+    background-color: #855FB1;
+    color: #FAFAFA;
+    border-radius: 35px;
+    border: 1px solid #855FB1;
+}
+
+.footer_content span {
+    color: #D9B8FF;
 }
