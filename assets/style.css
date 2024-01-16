@@ -63,9 +63,38 @@ nav {
     justify-content: center;
     gap: 30px;
     margin-top: 150px;
+    flex-wrap: wrap;
 }
 
 .images img {
     width: 255px;
     height: 242px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+}
+
+.modern_use_section {
+    text-align: center;
+    width: 450px;
+    margin: 0 auto;
+}
+
+.modern_use_section h3 {
+    color: #4D96A9;
+    font-weight: 600;
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+
+.modern_use_section h2 {
+    color: #28283D;
+    font-size: 40px;
+    padding: 0 30px;
+    margin: 0;
+}
+
+.modern_use_section p {
+    color: #87879D;
+    font-size: 16px;
+    font-weight: 300;
 }
