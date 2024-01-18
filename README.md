@@ -7,6 +7,7 @@ Meet Landing page mobile first layout
 
 ### Screenshot
 ![](./assets/images/screenshot.jpg)
+![](./assets/images/mobile_screenshot.jpg)
 
 
 ### Links
