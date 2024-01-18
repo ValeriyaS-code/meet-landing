@@ -12,7 +12,7 @@ Meet Landing page mobile first layout
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ( https://valeriyas-code.github.io/meet-landing/)
 
 
 ### Built with
